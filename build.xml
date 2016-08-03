@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.00000" encoding="UTF-8"?>
 <project default="run" name="wilson's Demo project on ant">
 	<target name="run" depends="compile">
 		<java classname="com.wil.code.Demo">
